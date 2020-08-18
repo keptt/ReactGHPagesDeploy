@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/ReactGHPagesDeploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ReactGHPagesDeploy/static/js/main.8b736032.chunk.js",
-    "main.js.map": "/ReactGHPagesDeploy/static/js/main.8b736032.chunk.js.map",
-    "runtime-main.js": "/ReactGHPagesDeploy/static/js/runtime-main.dbfb256c.js",
-    "runtime-main.js.map": "/ReactGHPagesDeploy/static/js/runtime-main.dbfb256c.js.map",
-    "static/js/2.5faaca40.chunk.js": "/ReactGHPagesDeploy/static/js/2.5faaca40.chunk.js",
-    "static/js/2.5faaca40.chunk.js.map": "/ReactGHPagesDeploy/static/js/2.5faaca40.chunk.js.map",
-    "index.html": "/ReactGHPagesDeploy/index.html",
-    "precache-manifest.3b99788c34c7ab802e8cbbd55148f491.js": "/ReactGHPagesDeploy/precache-manifest.3b99788c34c7ab802e8cbbd55148f491.js",
-    "service-worker.js": "/ReactGHPagesDeploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ReactGHPagesDeploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5faaca40.chunk.js.LICENSE.txt": "/ReactGHPagesDeploy/static/js/2.5faaca40.chunk.js.LICENSE.txt",
-    "static/media/alex.png": "/ReactGHPagesDeploy/static/media/alex.697ce828.png",
-    "static/media/boh.png": "/ReactGHPagesDeploy/static/media/boh.530fe596.png",
-    "static/media/bohr.jpg": "/ReactGHPagesDeploy/static/media/bohr.1a112d26.jpg",
-    "static/media/cow-def.jpg": "/ReactGHPagesDeploy/static/media/cow-def.ed06f709.jpg",
-    "static/media/cow.png": "/ReactGHPagesDeploy/static/media/cow.977d82dc.png",
-    "static/media/isy-logo.png": "/ReactGHPagesDeploy/static/media/isy-logo.eaa4e536.png",
-    "static/media/nik.jpg": "/ReactGHPagesDeploy/static/media/nik.5f6ccb34.jpg",
-    "static/media/ser.png": "/ReactGHPagesDeploy/static/media/ser.cc0d6d8c.png"
+    "main.css": "/IsyMembers/static/css/main.5f361e03.chunk.css",
+    "main.js": "/IsyMembers/static/js/main.3f6cc550.chunk.js",
+    "main.js.map": "/IsyMembers/static/js/main.3f6cc550.chunk.js.map",
+    "runtime-main.js": "/IsyMembers/static/js/runtime-main.92ea17bc.js",
+    "runtime-main.js.map": "/IsyMembers/static/js/runtime-main.92ea17bc.js.map",
+    "static/js/2.f9018cfd.chunk.js": "/IsyMembers/static/js/2.f9018cfd.chunk.js",
+    "static/js/2.f9018cfd.chunk.js.map": "/IsyMembers/static/js/2.f9018cfd.chunk.js.map",
+    "index.html": "/IsyMembers/index.html",
+    "precache-manifest.be0d5ce40692fd5d2658491ac5f8017e.js": "/IsyMembers/precache-manifest.be0d5ce40692fd5d2658491ac5f8017e.js",
+    "service-worker.js": "/IsyMembers/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/IsyMembers/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f9018cfd.chunk.js.LICENSE.txt": "/IsyMembers/static/js/2.f9018cfd.chunk.js.LICENSE.txt",
+    "static/media/alex.png": "/IsyMembers/static/media/alex.697ce828.png",
+    "static/media/boh.png": "/IsyMembers/static/media/boh.530fe596.png",
+    "static/media/bohr.jpg": "/IsyMembers/static/media/bohr.1a112d26.jpg",
+    "static/media/cow-def.jpg": "/IsyMembers/static/media/cow-def.ed06f709.jpg",
+    "static/media/cow.png": "/IsyMembers/static/media/cow.977d82dc.png",
+    "static/media/isy-logo.png": "/IsyMembers/static/media/isy-logo.eaa4e536.png",
+    "static/media/nik.jpg": "/IsyMembers/static/media/nik.5f6ccb34.jpg",
+    "static/media/ser.png": "/IsyMembers/static/media/ser.cc0d6d8c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbfb256c.js",
-    "static/js/2.5faaca40.chunk.js",
+    "static/js/runtime-main.92ea17bc.js",
+    "static/js/2.f9018cfd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8b736032.chunk.js"
+    "static/js/main.3f6cc550.chunk.js"
   ]
 }
