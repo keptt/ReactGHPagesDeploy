@@ -26,7 +26,7 @@ function Body() {
                         <Typography variant="h4" align="center" color="textSecondary" paragraph>
                             Now Meet Your Team!
                         </Typography>
-                        <img src={ require("../img/cow.png") } style={{ marginRight: 15 }}/>
+                        <img src={ require("../img/cow.png") } alt="" style={{ marginRight: 15 }}/>
                         <div className={classes.heroButtons}>
                             <Grid container spacing={2} justify="center">
                                 <Grid item>
